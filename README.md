@@ -12,7 +12,43 @@ comment:  This document is a simple LiaScript course example.
 -->
 # Introduction to Programming
 
-Course Description
+## Syllabus - Introduction to Programming (Fall 2023)
+
+Class Schedule
+
+ Weekly Topics, Readings, and Assignments
+
+| Week | Topics & Events | Readings | Homework | Points |
+|------|----------------|----------|----------|--------|
+| 1    | Intro / Overview of Programming | Ch 1 |  |  |
+| 2    | Inside a Computer | Ch 1 |  |  |
+| 3    | Syntax & Semantics | Ch 2 |  |  |
+| 4    | Program Development Process | Ch 2 |  |  |
+| 5    | Lab Day: Install IDE, Lab Policy Review |  |  |  |
+| 6    | Numeric Types | Ch 3 | Lab 1 due | 25 |
+| 7    | Expression Output | Ch 3 |  |  |
+| 8    | Exam 1 | Ch 1-3 |  | 120 |
+| 9    | Program Input | Ch 4 | Lab 2 due | 50 |
+| 10   | Software Development Process | Ch 4 |  |  |
+| 11   | Conditions | Ch 5 |  |  |
+| 12   | Logical Expressions | Ch 5 | Lab 3 due | 50 |
+| 13   | Selection Control, While Loops | Ch 5 & 6 |  |  |
+| 14   | Exam 2 | Ch 4-6 |  | 120 |
+| 15   | Spring Break |  |  |  |
+| 16   | Switch Statements, Do-While Loops | Ch 7 |  |  |
+| 17   | Additional C++ Operators | Ch 7 |  |  |
+| 18   | User Defined Functions | Ch 8 | Lab 5 due | 50 |
+| 19   | Scope and More Functions | Ch 9 | Lab 6 due | 60 |
+| 20   | Exam 3 | Ch 7-9 |  | 120 |
+| 21   | User Defined Simple Types | Ch 10 |  |  |
+| 22   | Arrays & Array Processing, Classes and Info Hiding | Ch 11 & 12 | Lab 8 due | 70 |
+| 23   | Classes and Info Hiding | Ch 12 | Lab 9 due | 80 |
+| 24   | Final Exam (Section 01: 10:30 AM - 12:30 PM, Section 02: 3:30 PM - 5:30 PM) |  |  | 120 |
+
+Participation: 25 Points
+Total Points: 1000
+
+## Course Description
 
 This course offers an introduction to structured programming and algorithms using an object-oriented language. Topics covered include input/output, flow of control, functions, and a foundational overview of software engineering. Programming assignments are an integral part of the course.
 
