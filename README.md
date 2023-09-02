@@ -82,13 +82,13 @@ Course Requirements
 
 Study Aids
 
-- **Quizlet Class**: A comprehensive set of flashcards and study materials for CSIS 111. [Visit here](https://quizlet.com/class/8742942/)
+- **Quizlet Class**: A comprehensive set of flashcards and study materials. [Visit here](https://quizlet.com/class/8742942/)
   
-- **Quizlet Flashcards for Test 1**: Specific flashcards designed to help you prepare for the first test in CSIS 111. [Visit here](https://quizlet.com/187654849/csis-111-test-1-flash-cards/)
+- **Quizlet Flashcards for Test 1**: Specific flashcards designed to help you prepare for the first test. [Visit here](https://quizlet.com/187654849/csis-111-test-1-flash-cards/)
 
 Video Tutorials
 
-- **YouTube Playlist**: A curated list of video tutorials covering various aspects of programming, tailored for CSIS 111. [Watch here](https://www.youtube.com/watch?v=fi44mL7mcq0&list=PLgs-guxOweMBcvLs9OwCklCd88IY0LlU7&pp=iAQB)
+- **YouTube Playlist**: A curated list of video tutorials covering various aspects of programming, tailored. [Watch here](https://www.youtube.com/watch?v=fi44mL7mcq0&list=PLgs-guxOweMBcvLs9OwCklCd88IY0LlU7&pp=iAQB)
 
 
 
